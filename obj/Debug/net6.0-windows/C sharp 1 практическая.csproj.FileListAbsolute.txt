@@ -1,0 +1,21 @@
+C:\Users\egork\source\repos\C sharp 1 практическая\bin\Debug\net6.0-windows\C sharp 1 практическая.exe
+C:\Users\egork\source\repos\C sharp 1 практическая\bin\Debug\net6.0-windows\C sharp 1 практическая.deps.json
+C:\Users\egork\source\repos\C sharp 1 практическая\bin\Debug\net6.0-windows\C sharp 1 практическая.runtimeconfig.json
+C:\Users\egork\source\repos\C sharp 1 практическая\bin\Debug\net6.0-windows\C sharp 1 практическая.dll
+C:\Users\egork\source\repos\C sharp 1 практическая\bin\Debug\net6.0-windows\C sharp 1 практическая.pdb
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая_MarkupCompile.cache
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая_MarkupCompile.lref
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.g.resources
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.AssemblyInfoInputs.cache
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.AssemblyInfo.cs
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.dll
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\refint\C sharp 1 практическая.dll
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.pdb
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\C sharp 1 практическая.genruntimeconfig.cache
+C:\Users\egork\source\repos\C sharp 1 практическая\obj\Debug\net6.0-windows\ref\C sharp 1 практическая.dll
